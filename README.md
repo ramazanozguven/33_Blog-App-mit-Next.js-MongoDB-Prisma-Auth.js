@@ -1,6 +1,6 @@
 # Full-Stack Blog App mit Next.js, MongoDB, Prisma & Auth.js
 
-![Screenshot]()
+![Screenshot](https://github.com/ramazanozguven/33_Blog-App-mit-Next.js-MongoDB-Prisma-Auth.js/blob/9634b2be6208174c31ba03245f762cb95976b957/Screenshot.png)
 
 ## 🚀 Moderne Full-Stack-Blog-Anwendung 
 
